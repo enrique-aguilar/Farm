@@ -1,0 +1,13 @@
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\bin\Debug\netcoreapp3.1\CreatingAFarm.exe
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\bin\Debug\netcoreapp3.1\CreatingAFarm.deps.json
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\bin\Debug\netcoreapp3.1\CreatingAFarm.runtimeconfig.json
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\bin\Debug\netcoreapp3.1\CreatingAFarm.runtimeconfig.dev.json
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\bin\Debug\netcoreapp3.1\CreatingAFarm.dll
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\bin\Debug\netcoreapp3.1\CreatingAFarm.pdb
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\obj\Debug\netcoreapp3.1\CreatingAFarm.csprojAssemblyReference.cache
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\obj\Debug\netcoreapp3.1\CreatingAFarm.AssemblyInfoInputs.cache
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\obj\Debug\netcoreapp3.1\CreatingAFarm.AssemblyInfo.cs
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\obj\Debug\netcoreapp3.1\CreatingAFarm.csproj.CoreCompileInputs.cache
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\obj\Debug\netcoreapp3.1\CreatingAFarm.dll
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\obj\Debug\netcoreapp3.1\CreatingAFarm.pdb
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Create A Farm\CreatingAFarm\obj\Debug\netcoreapp3.1\CreatingAFarm.genruntimeconfig.cache
